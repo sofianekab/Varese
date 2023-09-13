@@ -19,7 +19,7 @@ Expected outputs include guidelines on the topics covered, a roadmap for future 
 ### Day 1, morning
 
 - introductions, scoping of the workshop, definition of outcomes
-- presentation and discussion of use cases
+- presentation and discussion of [use cases](../use-cases/)
 - review of literature and selection of references
 
 ### Day 1, afternoon
