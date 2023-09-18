@@ -11,4 +11,4 @@
 
 ## What do we want to represent?
 
-- Detail on what specific aspects of variable representation are important in the context (e.g. lineage, evolutions of concept or representation, etc.)
+- Detail on what specific aspects of variable representation are important in the context (e.g. lineage, evolutions of concept, code list or representation, etc.)
