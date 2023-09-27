@@ -10,8 +10,8 @@ Beyond the representation of variables, the work will also cover their organizat
 
 ### Resources
 
-- [Use cases](./use-cases.md)
-- [Meetings and workshops](./workshops.md)
+- [Use cases](./use-cases)
+- [Meetings and workshops](./workshops)
 
 ### References
 
