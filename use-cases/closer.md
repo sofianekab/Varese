@@ -24,3 +24,7 @@
 - Open questions are representation / ontolgies for other contextual information for which Controlled vocabulaires exists
 - Existing vocabularies include mode, geographical coverage
 - Other contextual information which may be candidates for CVs could be explored, e.g. administrative data,  
+## Relevent resources:
+- https://doi.org/10.5281/zenodo.8001540
+- https://doi.org/10.5281/zenodo.8410617
+- https://wiki.ucl.ac.uk/display/CLOS/Topics 
