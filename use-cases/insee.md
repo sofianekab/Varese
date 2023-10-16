@@ -18,6 +18,17 @@ a 'foundational' output would be A typology of 800 basedOn relationships could b
 - what type of changes there are between the variables represented in practice (addition of codes, modification of univers, modification of the description, modification of the description to encompass metadata that should be elsewhere (like population or versionrationale)...).
 - assess the extent to which current basedOn documentation allows more or less automatic comparisons to be made.
 - This statistical approach could provide an overview of the priorities and difficulties encountered.
+
+The two key aspects stand out from this analysis 
+-1 Description of the universe in a formal way. The producers spontaneously use a logical description of their universe of the variable. The use of UniverseGenerationCode
+is helpfull in this way, and the use of this formal description may facilitate description of evolution of the universe.
+
+-2 Mapping information between variables (good one create on ontology to qualify the basedOn relation sustainability)
+    • Mapping with a previous variable announcing they are consistant
+    • Link with  a weighting variable
+        ◦ panel (longitudinal or one point in time analysis)
+    • Caveats indicating the sucessive variables are not consistant
+    • Variable built based one or several variables
   
 - we could open the discussion by analysing the gap between what exists and what should be used (in terms of representation, universe) to improve the documentation and actionability of metadata in a repetitive context.
 
