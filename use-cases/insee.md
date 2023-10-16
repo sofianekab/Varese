@@ -19,7 +19,7 @@ a 'foundational' output would be A typology of 800 basedOn relationships could b
 - assess the extent to which current basedOn documentation allows more or less automatic comparisons to be made.
 - This statistical approach could provide an overview of the priorities and difficulties encountered.
 
-The two key aspects stand out from this analysis 
+The tree key aspects stand out from this analysis 
 
 -1 Description of the universe in a formal way. The producers spontaneously use a logical description of their universe of the variable. The use of UniverseGenerationCode
 is helpfull in this way, and the use of this formal description may facilitate description of evolution of the universe.
