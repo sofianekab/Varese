@@ -30,11 +30,12 @@
 - Other contextual information which may be candidates for CVs could be explored, e.g. administrative data
 
 ## Relevent resources:
-- https://doi.org/10.5281/zenodo.8001540
-- https://doi.org/10.5281/zenodo.8410617
-- https://wiki.ucl.ac.uk/display/CLOS/Topics 
 - https://doi.org/10.5281/zenodo.8001540 (Question driven equivalence - IAssist presentation)
 - https://doi.org/10.5281/zenodo.8410617 (Towards Metadata Driven Harmonisation - ESRA presentation)
 - https://wiki.ucl.ac.uk/display/CLOS/Topics (CLOSER variable/question groups)
 - https://wiki.ucl.ac.uk/pages/viewpage.action?pageId=62790771 (CLOSER DDI Profile)
+- https://wiki.ucl.ac.uk/pages/viewpage.action?pageId=79507035 (Group)
+- https://wiki.ucl.ac.uk/pages/viewpage.action?pageId=79507040 (StudyUnit)
+- https://wiki.ucl.ac.uk/pages/viewpage.action?pageId=79507040 (DataCollection)
+- https://wiki.ucl.ac.uk/pages/viewpage.action?pageId=79507045 (Instrument)
 
