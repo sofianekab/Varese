@@ -39,6 +39,8 @@
 
 ### Links
 
+- Constances [fruits use case](../use-cases/constances.md)
+- Insee [general use case](../use-cases/insee.md)
 - Insee [TCM use case](../use-cases/insee-tcm.md)
 
 ## What do we need (more that DDI-L)?
