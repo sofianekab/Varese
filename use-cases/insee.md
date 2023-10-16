@@ -27,8 +27,8 @@ a 'foundational' output would be A typology of 800 basedOn relationships could b
 
 
 ## what do we want to formalize and why?
-	• Want to describe/understand the changes in the variables over time
-	• Want to re-use the correct variables, so need to understand what the differences 
+- Want to describe/understand the changes in the variables over time
+- Want to re-use the correct variables, so need to understand what the differences 
 
 ## Precise example in pseudo-DDI
 - Using BasedOn to link represented variables which are comprised of: Label, format, code list, unit type
