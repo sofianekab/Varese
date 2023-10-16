@@ -6,4 +6,4 @@ The different use cases are listed below:
 
 - [CLOSER use case](closer.md)
 - [Constances use case](constances.md)
-- [Insee use case](insee.md)
+- Insee [generic use case](insee.md) and ["TCM use case"](insee-tcm.md)
