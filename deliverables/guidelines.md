@@ -37,6 +37,10 @@
 
 (for CLOSER use case, mention automated methods for finding relations: NLP...)
 
+### Links
+
+- Insee [TCM use case](../../use-cases/insee-tcm.md)
+
 ## What do we need (more that DDI-L)?
 
 - baseOn categories (cf. NACDA)
