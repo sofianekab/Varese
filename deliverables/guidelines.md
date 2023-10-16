@@ -15,7 +15,7 @@
 
 ## What does DDI-L provide?
 
-- see [CLOSER document](../../workshops/comparison-overview.md)
+- see [CLOSER document](../workshops/comparison-overview.md)
 - grouping / packaging (schemes, groupes, resource packages...)
   - CLOSER Topics levels 1 and 2
   - Insee example from LFS 
@@ -39,7 +39,7 @@
 
 ### Links
 
-- Insee [TCM use case](../../use-cases/insee-tcm.md)
+- Insee [TCM use case](../use-cases/insee-tcm.md)
 
 ## What do we need (more that DDI-L)?
 
