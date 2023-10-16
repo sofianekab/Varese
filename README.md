@@ -10,6 +10,7 @@ Beyond the representation of variables, the work will also cover their organizat
 
 ### Resources
 
+- [Guidelines](./deliverables/guidelines.md)
 - [Use cases](./use-cases)
 - [Meetings and workshops](./workshops)
 
