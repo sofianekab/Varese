@@ -33,7 +33,7 @@
 - description
 - what do we want to formalize and why?
 - precise example in pseudo-DDI
-- different possibilities with pros and cons
+- alternative possibilities with pros and cons for each
 
 (for CLOSER use case, mention automated methods for finding relations: NLP...)
 
