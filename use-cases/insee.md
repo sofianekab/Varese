@@ -20,6 +20,7 @@ a 'foundational' output would be A typology of 800 basedOn relationships could b
 - This statistical approach could provide an overview of the priorities and difficulties encountered.
 
 The two key aspects stand out from this analysis 
+
 -1 Description of the universe in a formal way. The producers spontaneously use a logical description of their universe of the variable. The use of UniverseGenerationCode
 is helpfull in this way, and the use of this formal description may facilitate description of evolution of the universe.
 
@@ -29,6 +30,7 @@ is helpfull in this way, and the use of this formal description may facilitate d
         ◦ panel (longitudinal or one point in time analysis)
     • Caveats indicating the sucessive variables are not consistant
     • Variable built based one or several variables
+    Concept change
   
 - we could open the discussion by analysing the gap between what exists and what should be used (in terms of representation, universe) to improve the documentation and actionability of metadata in a repetitive context.
 
