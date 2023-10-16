@@ -42,4 +42,4 @@
 ## Conclusions
 
 - DDI provides different tools, additional ones are needed
-- There is no perfect answer, it depents on multiple factor (effort in metadata modelling, needs of users, etc.)
+- There is no perfect answer, it depends on multiple factors (effort in metadata modelling, needs of users, etc.)
