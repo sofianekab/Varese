@@ -25,7 +25,7 @@ WellW[Wellness Questions-Web] -- BasedOn --> WellP[Wellness Questions-Paper]
 #### Lifecycle evolution of a question and variable
 ```mermaid
 graph TB
-  Pol80[Which Party did you vote for in the 1980 General Election] -- BasedOn -->  Pol90[Which Party did you vote for in the 1990 General Election]
+  Pol90[Which Party did you vote for in the 1990 General Election] -- BasedOn -->  Pol80[Which Party did you vote for in the 1980 General Election]
   subgraph 1990
     Pol90[Which Party did you vote for in the 1990 General Election] --> Pol90Var[Party voted for in 1990]
   end  subgraph 1980
@@ -71,3 +71,15 @@ graph TB
   Pol90Var[Party voted for in 1990] --> Pol90[Which Party did you vote for in the 1990 General Election]
   Pol80Var[Party voted for in 1980] --> Pol80[Which Party did you vote for in the 1980 General Election]
   Pol78Var[Party voted for in 1978] --> Pol78[Which Party did you vote for in the 1978 General Election]
+```
+
+If same question ithese relationships can also be expresed
+```mermaid
+graph TB
+  PolConcept[Political Party Affiliation] --> Pol90Var[Party voted for in 1990]
+  PolConcept[Political Party Affiliation] --> Pol80Var[Party voted for in 1980]
+  PolConcept[Political Party Affiliation] --> Pol78Var[Party voted for in 1978]
+  Pol90Var[Party voted for in 1990] --> Pol[Which Party did you vote for in the last General Election]
+  Pol80Var[Party voted for in 1980] --> Pol[Which Party did you vote for in the last General Election]
+  Pol78Var[Party voted for in 1978] --> Pol[Which Party did you vote for in the last General Election]
+```
