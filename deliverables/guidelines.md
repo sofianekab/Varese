@@ -35,6 +35,11 @@
 
 (for CLOSER use case, mention automated methods for finding relations: NLP...)
 
+## What do we need (more that DDI-L)?
+
+- baseOn categories
+
 ## Conclusions
 
-DDI provides different tools, there is no perfect answer, it depents on multiple factor (effort in metadata modelling, needs of users, etc.)
+- DDI provides different tools, additional ones are needed
+- There is no perfect answer, it depents on multiple factor (effort in metadata modelling, needs of users, etc.)
