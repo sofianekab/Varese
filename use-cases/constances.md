@@ -69,16 +69,16 @@ All described parts listed in the tables and also
 Instrument: Inclusion V1 
 - Concept: Fruit consumption
   - Question: How often do you eat raw or cooked fruit (including 100% fruit juice)? / A quelle fréquence consommez-vous des fruits crus ou cuits (y compris les jus 100% fruit) ?
-    - AQ_ALIM_FreqConsFruit (Instance variable)
+    - InstanceVariable: AQ_ALIM_FreqConsFruit
 
 Instrument: Inclusion V2
 - Concept: Fresh fruit consumption / Consommation de fruits frais?
-- (BasedOn Previous one) How often do you eat fresh fruit (including pressed fruit)? / A quelle fréquence mangez-vous des fruits frais (y compris fruits pressés)?
+- (BasedOn Previous question) How often do you eat fresh fruit (including pressed fruit)? / A quelle fréquence mangez-vous des fruits frais (y compris fruits pressés)?
   - Instance variable: AQ_ALIM_FreqConsFruitCPJ_n
 
 - Concept: Fruit juice consumption / Consommation de jus de fruit?
-- (BasedOn Previous one) How often do you drink juice or nectar?
-- Instance variable: AQ_ALIM_FreqConsjusPJ_n
+- (BasedOn Previous question) How often do you drink juice or nectar?
+  - Instance variable: AQ_ALIM_FreqConsjusPJ_n
 
 
 ### Cigarettes
@@ -90,5 +90,5 @@ Instrument: Inclusion
 
 Instrument: Follow-up Instrument
 - Question: Currently, do you smoke (excluding e-cigarettes)? --> AQ_COMPORT_TcActFume
-- Quesiton: If yes, how many do you smoke per day on average (cigarettes)?
+- Question: If yes, how many do you smoke per day on average (cigarettes)?
   - Instance variable: AQ_COMPORT_TcCigtJNb
