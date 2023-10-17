@@ -7,6 +7,7 @@
 
 ## What are we talking about?
 
+- types of data to describe (cross-sectional, longitudinal...) with examples corresponding to the use cases
 - variables and questions
 - value domain representation
 - high-level description of the variable cascade (without reference to DDI)
